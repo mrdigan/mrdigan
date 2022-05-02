@@ -1,5 +1,5 @@
 
-This repository, at the time of writing, will just host a listing of tools and commands that may help with CTF challenges. I hope to keep it as a "live document," and ideally it will not die out like the old "tools" page I had made ([https://github.com/USCGA/tools](https://github.com/USCGA/tools)).
+This repository, at the time of writing, will just host a listing of tools and commands that may help with CTF challenges.
 
 ---------------
 # Table of Contents
